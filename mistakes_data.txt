@@ -1,0 +1,6 @@
+# Mistake Pattern Analyzer Data File - DO NOT EDIT MANUALLY
+MST-ABC11FB7|Missed assignment deadline because I delayed work|PROCRASTINATION|HIGH|2026-01-02|
+MST-BDC30922|Started project late and rushed before submission|POOR_PLANNING|MEDIUM|2026-01-03|
+MST-B027D7A1|Delayed exam preparation until the last week|PROCRASTINATION|HIGH|2026-01-04|
+MST-446CD09C|Forgot to prepare slides before presentation|POOR_PLANNING|MEDIUM|2026-01-01|
+MST-184BBE86|Unplanned coding caused confusion during exam|POOR_PLANNING|HIGH|2026-01-03|
